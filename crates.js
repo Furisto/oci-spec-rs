@@ -1,0 +1,1 @@
+window.ALL_CRATES = ["anyhow","bitflags","caps","cfg_if","errno","getrandom","itoa","libc","memoffset","nix","oci_spec","ppv_lite86","proc_macro2","quote","rand","rand_chacha","rand_core","remove_dir_all","ryu","serde","serde_derive","serde_json","syn","tempfile","thiserror","thiserror_impl","unicode_xid"];
